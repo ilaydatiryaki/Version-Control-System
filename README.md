@@ -8,7 +8,7 @@ Versiyon Kontrol Sistemi, seçili dosyaların ya da tamamının  bir önceki ver
 
 ```Git``` : Açık kaynak ve ücretsiz olan bir Dağıtık Sürüm Kontrol Sistemidir.
 
-Sürüm Kontrol Sistemleri : Bir yazılım ekibinin ya da bireyin, üzerinde çalışılan projede, zaman içerisinde oluşan kaynak kodlarındaki değişiklikleri izleyebilmesine ve yönetmesine yardımcı olan araçlardır.
+```Sürüm Kontrol Sistemleri``` : Bir yazılım ekibinin ya da bireyin, üzerinde çalışılan projede, zaman içerisinde oluşan kaynak kodlarındaki değişiklikleri izleyebilmesine ve yönetmesine yardımcı olan araçlardır.
 
 
 ```Git Directory (Repository)``` : Proje üzerinde yaptığınız değişikliklerin depolandığı bölümdür. 
